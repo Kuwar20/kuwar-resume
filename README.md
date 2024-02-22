@@ -20,6 +20,12 @@
 
 ---
 
+**CAREER BREAK**  
+- Made a calculated decision to invest 2 years ( 2021 - 2023 ) for competitive exams in defense, successfully clearing them, at the
+same time, engaged in self-directed learning focused on software development and completed freelance projects.
+
+---
+
 **PROJECTS EXPERIENCE**  
 
 **Easy Booking ®**  <kbd> <br> MERN, TypeScript, Tailwind CSS, Stripe<br> </kbd>   &nbsp;[Repo](https://github.com/Kuwar20/Easy-Booking)
@@ -44,7 +50,7 @@
 
 **EDUCATION**  
 
-**Chandigarh University**  
+**Chandigarh University**  | 2017 - 2021
 - Bachelor of Engineering in Electronics and Communication
 
 ---
