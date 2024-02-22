@@ -20,7 +20,7 @@
 
 ---
 
-**CAREER BREAK**  
+**PLANNED CAREER BREAK**  
 - Made a calculated decision to invest 2 years ( 2021 - 2023 ) for competitive exams in defense, successfully clearing them, at the
 same time, engaged in self-directed learning focused on software development and completed freelance projects.
 
