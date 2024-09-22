@@ -77,5 +77,5 @@ same time, engaged in self-directed learning focused on software development and
 ![Kuwar Singh Resume](https://github.com/Kuwar20/kuwar-resume/assets/66473902/3ebc9917-eb06-46ff-a342-9ef2eafd9745)
 
 
-
+# [Live Resume 1](https://kuwar20.github.io/kuwar-resume/)
 # [Live Resume](https://kuwar-resume.vercel.app/)
